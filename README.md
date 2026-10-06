@@ -29,7 +29,6 @@ The accompanying report describes this component arrangement:
 
 - `2010040.pdsprj` — Proteus Design Suite project file containing the circuit design.
 - `2010040.pdf` — project report, including the design description, assembly code, circuit illustration, results, and references.
-- `2010040_video_demonstration.mkv` — video demonstration of the project.
 
 ## Opening the project
 
